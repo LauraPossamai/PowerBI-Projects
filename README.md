@@ -23,7 +23,8 @@ This project was created with the intent of showcasing how inflation affects box
 ![Top500](https://github.com/LauraPossamai/PowerBI-Projects/assets/132849118/7cd03a9e-9716-4f5b-a668-ca1813553157)
 
 
-![Top10](https://github.com/LauraPossamai/PowerBI-Projects/assets/132849118/7f560d68-a25f-4ead-bd6e-09632a26454c)
+![Top10](https://github.com/LauraPossamai/PowerBI-Projects/assets/132849118/477a3a79-1e97-4149-93d3-ad84450a0dc2)
+
 
 
 ![Inflationadjusted](https://github.com/LauraPossamai/PowerBI-Projects/assets/132849118/6c672bf2-ad76-4255-a5ba-3630f08cc5ad)
