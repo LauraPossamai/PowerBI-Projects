@@ -14,7 +14,7 @@ This project is in portuguese and it shows a Budget Managment Dashboard created 
 
 ***
 
-# 1. Box Office Success Project
+# 2. Box Office Success Project
 
 This one is for the cinema lovers like me! This project was created with the intent of showcasing how inflation affects box office success over time and what are the most successful films in cinema history.
 
